@@ -10,21 +10,21 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
+title: "OCMC 2017"
+email: "ocmc@ohio.edu"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+baseurl: ""
+url: "https://ocmc.scrippscollege.ohio.edu"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: ""
+googleAnalyticsSiteUrl: "ocmc.scrippscollege.ohio.edu"
+siteVerification: ""
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
+organizerName: "Ohio University"
+organizerAlternateName: "Scripps Colllege of Communication and School of Communication Studies"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "ocmc@ohio.edu"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
@@ -38,7 +38,6 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Documents
 c4pUrl: "https://bit.ly/dfua-c4p"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
-
 
 # Navigation
 navigationLinks:
@@ -56,16 +55,16 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroTitle: "Organizational Communication Mini Conference 2017"
+eventDate: "October 13-15"
+typeoutTextValues: '""'
+typeoutFallback: ""
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About OCMC"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -116,7 +115,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+twitterHashTag: "ocmc2017"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -135,42 +134,42 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
+  name: "Everyone"
+  price: "Free"
+  priceCurrency: "USA"
   ticketsNumber: "150"
-  ribbon: "-5%"
+  ribbon: ""
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+ # -
+ #  name: "Last Chance"
+ #  price: "450"
+ #  priceCurrency: "UAH"
+ #  ticketsNumber: "100"
+ #  ribbon: "-20%"
+ #  featured: true
+ #  buyButtonLink: "http://dfua.ticketforevent.com/"
+ #  buyButtonText: "Buy Now"
+ #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+ #  validFrom: "2014-10-01T00:00"
+ #  validThrough: "2014-10-23T23:59"
+ #  disabled: true
+ # -
+ #  name: "Student"
+ #  price: "200"
+ #  priceCurrency: "UAH"
+ #  ticketsNumber: "50"
+ #  buyButtonLink: "http://dfua.ticketforevent.com/"
+ #  buyButtonText: "Buy Now"
+ #  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+ #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+ #  validFrom: "2014-08-20T10:00"
+ #  validThrough: "2014-10-23T23:59"
+ #  soldOut: true
+ #  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
@@ -200,6 +199,10 @@ discusShortName: "devfestua"
 
 # Speakers List Block
 showSessions: true
+
+
+# Conference Partners Block
+showPartners: false
 
 # Team Block
 teamBlockTitle: "About us"
@@ -252,7 +255,7 @@ directionDetailsWideCards:
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: true
+enableHackathon: false
 
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
