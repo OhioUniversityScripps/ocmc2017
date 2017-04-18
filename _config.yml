@@ -86,19 +86,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
+eventLocationName: "Schoonover Center"
+eventLocationLink: ""
+eventStreetAddress: "20 East Union"
+eventAddressLocality: "Athens"
+eventAddressLocalityRegion: "Ohio"
+eventPostalCode: "45701"
+eventAddressCountry: "USA"
+eventStartTime: "2017-10-25T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventEndTime: "2017-10-25T20:00"
+eventPlaceCoordinates: "39.327802, -82.1024877"
+mapCenterCoordinates: "39.327802, -82.1024877"
+mapMobileCenterCoordinates: "39.327802, -82.1024877"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -106,7 +106,7 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
+venueTitle: "Collaborative Classroom"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
@@ -121,52 +121,27 @@ partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
+subscribeShow: false
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
+ticketsTitle: "Register"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Everyone"
+  name: "Registration"
   price: "Free"
   priceCurrency: "USA"
   ticketsNumber: "150"
   ribbon: ""
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- # -
- #  name: "Last Chance"
- #  price: "450"
- #  priceCurrency: "UAH"
- #  ticketsNumber: "100"
- #  ribbon: "-20%"
- #  featured: true
- #  buyButtonLink: "http://dfua.ticketforevent.com/"
- #  buyButtonText: "Buy Now"
- #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
- #  validFrom: "2014-10-01T00:00"
- #  validThrough: "2014-10-23T23:59"
- #  disabled: true
- # -
- #  name: "Student"
- #  price: "200"
- #  priceCurrency: "UAH"
- #  ticketsNumber: "50"
- #  buyButtonLink: "http://dfua.ticketforevent.com/"
- #  buyButtonText: "Buy Now"
- #  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
- #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
- #  validFrom: "2014-08-20T10:00"
- #  validThrough: "2014-10-23T23:59"
- #  soldOut: true
- #  soldOutText: "Sold Out"
+  buyButtonText: "Register Now"
+  ticketContentList: ["Acess to all of the presentations", "Lunch and dinner provided"]
+  validFrom: "2017-08-25T10:00"
+  validThrough: "2017-09-30T23:59"
 
 # Footer
 socialLinks:
@@ -219,10 +194,10 @@ logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Get around Athens"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
+ - {title: "Public Transit", information: 'Athens Public Transit is available in Athens, OH. See details on <a href="http://www.athenstransit.org/">their website or call at (740) 592-2727.'}
  - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
  -
@@ -231,24 +206,18 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://www.ouinn.com/", text: "OU Inn"}
+     - {link: "https://www.ihg.com/holidayinnexpress/hotels/us/en/athens/ahspd/hoteldetail", text: "Holiday In Express"}
    -
     title: "Registration"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://www.ouinn.com/", text: "OU Inn"}
+     - {link: "https://www.ihg.com/holidayinnexpress/hotels/us/en/athens/ahspd/hoteldetail", text: "Holiday In Express"}
    -
     title: "Attendance Details"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://www.ouinn.com/", text: "OU Inn"}
+     - {link: "https://www.ihg.com/holidayinnexpress/hotels/us/en/athens/ahspd/hoteldetail", text: "Holiday In Express"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
