@@ -46,7 +46,7 @@ navigationLinks:
  - {permalink: "/news/", text: "News"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
+ - {permalink: "/about/", text: "About"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "/speakers/#submit", text: "Become a speaker"}
