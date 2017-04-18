@@ -18,19 +18,20 @@ url: "https://ocmc.scrippscollege.ohio.edu"
 permalink: "/news/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: "ocmc.scrippscollege.ohio.edu"
+googleMapsApiKey: "AIzaSyDTu56tEb0chJHWujO-XqKXceuXv_iRjZs"
 siteVerification: ""
 
 # Organizer Info
 organizerName: "Ohio University"
 organizerAlternateName: "Scripps Colllege of Communication and School of Communication Studies"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerDescription: ""
 organizerEmail: "ocmc@ohio.edu"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, ocmc, organizational communication, academic, mini conference, Scripps College of Communication, School of Communication Studies, Ohio University, Athens, research"
+twitterAccount: "@OCMC2017"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -188,8 +189,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "40.0637378, -98.9162282"
+logisticsMapMobileCenterCoordinates: "40.0637378, -98.9162282"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
