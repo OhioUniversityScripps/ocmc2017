@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "OCMC 2017"
-email: "ocmc@ohio.edu"
+email: "ocmc2017@ohio.edu"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: ""
 url: "https://ocmc.scrippscollege.ohio.edu"
@@ -186,7 +186,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:ocmc2017@ohio.edu", text: "ocmc2017@ohio.edu"}
  -
   title: "FAQ"
   links:
