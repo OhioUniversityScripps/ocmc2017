@@ -15,7 +15,7 @@ email: "ocmc2017@ohio.edu"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: ""
 url: "https://ocmc.scrippscollege.ohio.edu"
-permalink: "/blog/:title"
+permalink: "/news/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: "ocmc.scrippscollege.ohio.edu"
 siteVerification: ""
@@ -42,7 +42,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/news/", text: "News"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
