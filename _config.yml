@@ -36,7 +36,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
+c4pUrl: "/speakers/#submit"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Navigation
@@ -47,11 +47,10 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "/speakers/#submit", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "/speakers/#submit", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -60,15 +59,14 @@ eventDate: "October 13-15"
 typeoutTextValues: '""'
 typeoutFallback: ""
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "/speakers/#submit", text: "Submit an Abstract"}
+ - {permalink: "/#tickets", text: "Register for Free"}
 
 # About Block
 aboutTitle: "About OCMC"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Mini Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -180,8 +178,8 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "https://www.ohio.edu/scrippscollege/", text: "Ohio University Scripps College of Communication"}
+   - {link: "http://www.ohiocommstudies.com/", text: "School of Communication Studies"}
  -
   title: "Contacts"
   links:
