@@ -179,7 +179,37 @@ showPartners: false
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "Welcome to the 2017 Organizational Communication Mini-Conference (OCMC) hosted by the Scripps College of Communication and School of Communication Studies at Ohio University, Athens, Ohio.<br/><br/>The purpose of the OCMC is to feature and support graduate students pursuing research about organizational communication. The two-day event provides burgeoning scholars in the field with the opportunity to present their dissertations or other research projects, receive feedback, and socialize with their peers and with established faculty. The informal atmosphere of the OCMC is also well suited for students who wish to present and receive constructive criticism on early dissertation plans.<br/><br/>If you have any questions, please feel free to contact us <a href=\"mailto:ocmc2017@ohio.edu\">ocmc2017@ohio.edu</a>"
+aboutPastConferences:
+ - {title: "Northwestern University", year: "2016", link: "http://ocmc2016.soc.northwestern.edu/"}
+ - {title: "Michigan State University", year: "2015", link: "http://cas.msu.edu/ocmc/#about"}
+ - {title: "Purdue University", year: "2014", link: "https://ocmc2014.wordpress.com/"}
+ - {title: "University of Illinois at Urbana-Champaign", year: "2013"}
+ - {title: "University of Oklahoma", year: "2012"}
+ - {title: "University of Missouri", year: "2011"}
+ - {title: "Rutgers, The State University of New Jersey", year: "2010"}
+ - {title: "Northwestern University", year: "2009"}
+ - {title: "Purdue University", year: "2008"}
+ - {title: "University of Illinois at Urbana-Champaign", year: "2007"}
+ - {title: "Michigan State University", year: "2006"}
+ - {title: "Ohio University", year: "2005"}
+ - {title: "Saint Louis University", year: "2004"}
+ - {title: "Western Michigan University", year: "2003"}
+ - {title: "Purdue University", year: "2002"}
+ - {title: "University of Illinois at Urbana-Champaign", year: "2001"}
+ - {title: "Michigan State University", year: "2000"}
+ - {title: "Western Michigan University", year: "1999"}
+ - {title: "University of Kansas", year: "1998"}
+ - {title: "Purdue University", year: "1997"}
+ - {title: "University of Illinois at Urbana-Champaign", year: "1996"}
+ - {title: "Michigan State University", year: "1995"}
+ - {title: "University of Kansas", year: "1994"}
+ - {title: "Western Michigan University", year: "1993"}
+ - {title: "University of Illinois at Urbana-Champaign", year: "1992"}
+ - {title: "University of Minnesota", year: "1991"}
+ - {title: "Purdue University", year: "1990"}
+ - {title: "Michigan State University", year: "1989"}
+ - {title: "University of Illinois at Urbana-Champaign", year: "1988"}
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"

@@ -57,6 +57,31 @@
             </div>
             {% endif %} {% endfor %}
         </div>
+
+        <div class="row" id="past-conferences">
+          <h2>Past Conferences</h2>
+          {% for conference in site.aboutPastConferences %}
+            <div class="col-md-offset-4 col-md-2 text-right">
+              <p>
+                {% if conference.link %}
+                  <a href="{{conference.link}}">{{conference.title}}</a>
+                {% else %}
+                  {{conference.title}}
+                {% endif %}
+              </p>
+            </div>
+            <div class="col-md-2 text-left">
+              <p>
+                {% if conference.link %}
+                  <a href="{{conference.link}}">{{conference.year}}</a>
+                {% else %}
+                  {{conference.year}}
+                {% endif %}
+              </p>
+            </div>
+          {% endfor %}
+        </div>
+
     </div>
 </section>
 <!-- End Team List -->
