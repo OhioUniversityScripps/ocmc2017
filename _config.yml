@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "OCMC 2017"
 email: "ocmc2017@ohio.edu"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: ""
+baseurl: "/ocmc2017"
 url: "https://ocmc.scrippscollege.ohio.edu"
 permalink: "/news/:title"
 googleAnalyticsTrackingId: ""
@@ -60,7 +60,7 @@ eventDate: "October 13-15"
 typeoutTextValues: '""'
 typeoutFallback: ""
 heroButtons:
- - {link: "/speakers/#submit", text: "Submit an Abstract"}
+ - {permalink: "/speakers/#submit", text: "Submit an Abstract"}
  - {permalink: "/#tickets", text: "Register for Free"}
 
 # About Block
