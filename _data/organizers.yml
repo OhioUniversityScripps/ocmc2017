@@ -1,8 +1,9 @@
 -
   group: "Main organizer"
   elements:
-    - {name: "Scripps College of Communication", description: "Scripps College of Communication", link: "https://www.ohio.edu/scrippscollege/", imageUrl: "gdg-lviv.svg"}
-    - {name: "School of Communication Studies", description: "School of Communication Studies", link: "http://www.ohiocommstudies.com/", imageUrl: "gdg-lviv.svg"}
+    - {name: "Scripps College of Communication", description: "Scripps College of Communication", link: "https://www.ohio.edu/scrippscollege/", imageUrl: "scripps-logo.png"}
+    - {name: "School of Communication Studies", description: "School of Communication Studies", link: "http://www.ohiocommstudies.com/", imageUrl: "coms-logo.png"}
+    - {name: "Story Telling Institute", description: "", link: "https://www.facebook.com/Barbara-Geralds-Institute-for-Storytelling-and-Social-Impact-110658425946804/", imageUrl: "story-telling-institute.png"}
 -
   group: "Co-organizers"
   elements:
