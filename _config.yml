@@ -49,9 +49,11 @@ navigationLinks:
  - {permalink: "/about/", text: "About"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "/speakers/#submit", text: "Become a speaker"}
+ - {link: "/#tickets", text: "Register for Free"}
+ - {link: "/speakers/#submit", text: "Submit an Abstract"}
 rightNavigationButtons:
- - {link: "/speakers/#submit", text: "Become a speaker"}
+  - {link: "/#tickets", text: "Register for Free"}
+  - {link: "/speakers/#submit", text: "Submit an Abstract"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -130,7 +132,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Register"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
   name: "Registration"
