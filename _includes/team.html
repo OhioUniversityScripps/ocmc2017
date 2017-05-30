@@ -57,31 +57,41 @@
             </div>
             {% endif %} {% endfor %}
         </div>
-
-        <div class="row" id="past-conferences">
-          <h2>Past Conferences</h2>
-          {% for conference in site.aboutPastConferences %}
-            <div class="col-md-offset-4 col-md-2 text-right">
-              <p>
-                {% if conference.link %}
-                  <a href="{{conference.link}}">{{conference.title}}</a>
-                {% else %}
-                  {{conference.title}}
-                {% endif %}
-              </p>
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+          <div id="past-conferences">
+            <h2>Past Conferences</h2>
+            <div class="col-md-offset-4 col-md-4 col-sm-offset-3 col-sm-6 col-xs-12">
+              <table class="table table-striped">
+              <thead>
+                <tr>
+                  <th>Location</th>
+                  <th>Year</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for conference in site.aboutPastConferences %}
+                <tr>
+                  <td>
+                  {% if conference.link %}
+                      <a href="{{conference.link}}">{{conference.title}}</a>
+                    {% else %}
+                      {{conference.title}}
+                    {% endif %}
+                  </td>
+                  <td>
+                    {% if conference.link %}
+                      <a href="{{conference.link}}">{{conference.year}}</a>
+                    {% else %}
+                      {{conference.year}}
+                    {% endif %}
+                  </td>
+                </tr>
+              {% endfor %}
+              </tbody>
+            </table>
             </div>
-            <div class="col-md-2 text-left">
-              <p>
-                {% if conference.link %}
-                  <a href="{{conference.link}}">{{conference.year}}</a>
-                {% else %}
-                  {{conference.year}}
-                {% endif %}
-              </p>
-            </div>
-          {% endfor %}
+          </div>
         </div>
-
     </div>
 </section>
 <!-- End Team List -->
