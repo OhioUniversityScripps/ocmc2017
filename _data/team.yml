@@ -1,60 +1,90 @@
-- 
+-
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Dr. Brittany"
+  surname: "Peterson"
+  title: "Conference Planner"
+  thumbnailUrl: peterson.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
+  ribbon:
+  social:
+    - {name: "site", link: "http://www.ohiocommstudies.com/people/peterson/"}
+-
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Dr. Jessica"
+  surname: "Ford"
+  title: "Conference Organizer"
+  thumbnailUrl: jessica-ford-ph-d.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
+  ribbon:
+  social:
+    - {name: "site", link: "http://www.ohiocommstudies.com/people/jessica-ford-ph-d/"}
+-
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Dr. Jacob"
+  surname: "Ford"
+  title: "Conference Organizer"
+  thumbnailUrl: ford-jacob.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
+  ribbon:
+  social:
+    - {name: "site", link: "https://business.ohio.edu/about/faculty-staff/ford-jacob/"}
+-
+  id: 3
+  name: "Dr. Laura"
+  surname: "Black"
+  title: "Conference Organizer"
+  thumbnailUrl: black.jpg
+  team: true
+  ribbon:
+  social:
+    - {name: "site", link: "http://www.ohiocommstudies.com/people/athens-campus/black/"}
+-
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
+  name: "Dr. Lynn"
+  surname: "Harter"
+  title: "Conference Organizer"
+  thumbnailUrl: harter.jpg
+  team: true
+  ribbon:
+  social:
+    - {name: "site", link: "http://www.ohiocommstudies.com/people/administration/harter/"}
+-
+  id: 6
+  name: "Melissa"
+  surname: "Weller"
+  title: "Conference Organizer"
+  thumbnailUrl: melissa-weller.jpg
+  team: true
+  ribbon:
+  social:
+    - {name: "site", link: "http://www.ohiocommstudies.com/people/melissa-weller/"}
+-
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  name: "Caroline"
+  surname: "Waldbuesser"
+  title: "Conference Organizer"
+  thumbnailUrl: caroline-waldbuesser.jpg
+  team: true
+  ribbon:
+  social:
+    - {name: "site", link: "http://www.ohiocommstudies.com/people/caroline-waldbuesser/"}
+-
+  id: 8
+  name: "Sonia"
+  surname: "Ivancic"
+  title: "Conference Organizer"
+  thumbnailUrl: sonia-ivancic.jpg
+  team: true
+  ribbon:
+  social:
+    - {name: "site", link: "http://www.ohiocommstudies.com/people/sonia-ivancic/"}
+-
+ id: 9
+ name: "Rebekah"
+ surname: "Crawford"
+ title: "Conference Organizer"
+ thumbnailUrl: grad-crawford.jpg
+ team: true
+ ribbon:
+ social:
+   - {name: "site", link: "http://www.ohiocommstudies.com/people/grad-crawford/"}
