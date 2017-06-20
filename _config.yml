@@ -227,28 +227,33 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Athens"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Athens Public Transit is available in Athens, OH. See details on <a href="http://www.athenstransit.org/">their website or call at (740) 592-2727.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "From the Airport", information: 'The closest airport is <a href="http://flycolumbus.com/">John Glenn International Airport</a> located in Columbus, Ohio (CMH) which is 80 miles away from Ohio University. In addition to rental cars, conference attendees have the option to buy a ticket on the Go Bus to get from the Columbus airport to Athens Ohio. If you decide to take the <a href="https://ridegobus.com/">Go Bus</a>, please let us know so we can arrange to pick you up from the dropoff location.'}
+ - {title: "Public Transit", information: 'Athens Public Transit is available in Athens, OH. See details on <a href="http://www.athenstransit.org/">their website or call at (740) 592-2727. There will be shuttle service between each of the conference hotels and the conference location on Saturday and Sunday. Attendees can also contact <a href="mailto:ocmc2017@ohio.edu">us</a> to make arrangements to be picked up before the Friday evening event if needed.' }
+ - {title: "Hotels", information: 'You will want to be sure to book your hotel rooms early because there is another conference in town this weekend (<a href="https://www.ohio.edu/global/cis/commdev/conferences/global-fusion.cfm">Global Fusion Conference</a>).' }
 directionDetailsWideCards:
- -
-  title: "Questions?"
-  subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "http://www.ouinn.com/", text: "OU Inn"}
-     - {link: "https://www.ihg.com/holidayinnexpress/hotels/us/en/athens/ahspd/hoteldetail", text: "Holiday In Express"}
-   -
-    title: "Registration"
-    links:
-     - {link: "http://www.ouinn.com/", text: "OU Inn"}
-     - {link: "https://www.ihg.com/holidayinnexpress/hotels/us/en/athens/ahspd/hoteldetail", text: "Holiday In Express"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "http://www.ouinn.com/", text: "OU Inn"}
-     - {link: "https://www.ihg.com/holidayinnexpress/hotels/us/en/athens/ahspd/hoteldetail", text: "Holiday In Express"}
+  -
+    title: "Hotel Accommodations and Information"
+    subCards:
+      -
+        title: "Ohio University Inn and Conference Center"
+        links:
+          - {link: "http://www.ouinn.com/", text: "View Website", details: "0.9 miles from Schoonover Center<br/>35 rooms (release Sept 13th)<br/>10 king 25 double<br/>$119.90<br/>(866) 593-6661<br/>Group name: Organizational Communication Mini Conference (OCMC)"}
+      -
+        title: "Holiday In Express"
+        links:
+          - {link: "https://www.ihg.com/holidayinnexpress/hotels/us/en/athens/ahspd/hoteldetail", text: "View Website", details: "1.8 miles from Schoonover Center<br/>25 rooms (Queen rooms)<br/>$109 before taxes<br/>1-740-592-4640<br/>Rooms usually released one month before event dates"}
+      -
+        title: "Shuttle Service"
+        links:
+          - {details: "There will be shuttle service between each of the conference hotels and the conference location on Saturday and Sunday. Attendees can also contact us to make arrangements to be picked up before the Friday evening event if needed."}
+
+  -
+    title: "Other Information"
+    subCards:
+      -
+        title: "Friday Opening Event Location"
+        links:
+          - {link: "https://www.ohio.edu/museum/", text: "The Kennedy Museum of Art", details: "100 Ridges Cir, Athens, OH 45701<br/>(740) 593-1304"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
