@@ -178,7 +178,7 @@ showSessions: true
 showPartners: false
 
 # Team Block
-teamBlockTitle: "About us"
+teamBlockTitle: "About OCMC"
 aboutUs: "Welcome to the 2017 Organizational Communication Mini-Conference (OCMC) hosted by the School of Communication Studies, the Barbara Geralds Institute for Storytelling and Social Impact, and the Scripps College of Communication at Ohio University in Athens, Ohio.<br/><br/>The purpose of the OCMC is to feature and support graduate students pursuing organizational communication research. The conference provides burgeoning scholars in the field with the opportunity to present their dissertations or other research projects, receive feedback, and socialize with their peers and with established faculty. The informal atmosphere of the OCMC is also well suited for students who wish to present and receive constructive criticism on early dissertation plans.<br/><br/>If you have any questions, please feel free to contact us at <a href=\"mailto:ocmc2017@ohio.edu\">ocmc2017@ohio.edu</a>."
 aboutPastConferences:
  - {title: "Northwestern University", year: "2016", link: "http://ocmc2016.soc.northwestern.edu/"}
