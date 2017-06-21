@@ -37,7 +37,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "/speakers/#submit"
+c4pUrl: "/presenters/#submit"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Navigation
@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/news/", text: "News"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/presenters/", text: "Presenters"}
  - {permalink: "/about/", text: "About"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
@@ -110,7 +110,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Collaborative Classroom"
-venueFeatures: ["3 huge projection screens", "16 LED TVs, one for each table", "Integrated wireless screen sharing via AirMedia"]
+venueFeatures: ["3 huge projection screens and 16 LED TVs", "Integrated wireless screen sharing via Crestron AirMedia"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"

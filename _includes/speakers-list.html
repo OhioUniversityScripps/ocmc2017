@@ -2,6 +2,15 @@
 <section id="speakers" class="speakers">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
+          <div class="row text-center">
+            <h2>Presenter Bios</h2>
+            <p>
+              Bios will be forthcoming. In the meantime, consider submitting an abstract.
+            </p>
+            <a href="{{ site.c4pUrl | prepend: site.baseurl  }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a presenter</a>
+          </div>
+
+
             <div class="row text-left appear-animation-trigger">
                 {% for speaker in site.data.speakers %}
                 <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
@@ -50,7 +59,6 @@
                 </div>
                 {% endfor %}
             </div>
-            <a href="{{ site.c4pUrl | prepend: site.baseurl  }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>     
         </div>
     </div>
 </section>
