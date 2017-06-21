@@ -31,29 +31,40 @@
             </div>
             {% endif %} {% endfor %}
         </div>
-
-        <div class="row" id="past-conferences">
+        <div class="row col-md-12">
           <h2>Past Conferences</h2>
-          {% for conference in site.aboutPastConferences %}
-            <div class="col-md-offset-4 col-md-2 text-right">
-              <p>
-                {% if conference.link %}
-                  <a href="{{conference.link}}">{{conference.title}}</a>
-                {% else %}
-                  {{conference.title}}
-                {% endif %}
-              </p>
-            </div>
-            <div class="col-md-2 text-left">
-              <p>
-                {% if conference.link %}
-                  <a href="{{conference.link}}">{{conference.year}}</a>
-                {% else %}
-                  {{conference.year}}
-                {% endif %}
-              </p>
-            </div>
-          {% endfor %}
+
+          <div class="table-responsive col-md-offset-4 col-md-4">
+            <table class="table table-borderd">
+              <thead>
+                <tr>
+                  <th>Location</th>
+                  <th>Year</th>
+                </tr>
+              </thead>
+
+              <tbody cellpadding="10">
+                {% for conference in site.aboutPastConferences %}
+                  <tr>
+                    <td>
+                      {% if conference.link %}
+                        <a href="{{conference.link}}">{{conference.title}}</a>
+                      {% else %}
+                        {{conference.title}}
+                      {% endif %}
+                    </td>
+                    <td>
+                      {% if conference.link %}
+                        <a href="{{conference.link}}">{{conference.year}}</a>
+                      {% else %}
+                        {{conference.year}}
+                      {% endif %}
+                    </td>
+                  </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
         </div>
     </div>
 </section>
