@@ -110,7 +110,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Collaborative Classroom"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: ["3 huge projection screens", "16 LED TVs, one for each table", "Integrated wireless screen sharing via AirMedia"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
