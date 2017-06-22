@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "OCMC 2017"
 email: "ocmc2017@ohio.edu"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/"
+baseurl: ""
 url: "http://ocmc.scrippscollege.ohio.edu"
 permalink: "/news/:title"
 googleAnalyticsTrackingId: ""
@@ -23,7 +23,7 @@ siteVerification: ""
 
 # Organizer Info
 organizerName: "Ohio University"
-organizerAlternateName: "Scripps Colllege of Communication and School of Communication Studies"
+organizerAlternateName: "Scripps College of Communication and School of Communication Studies"
 organizerDescription: ""
 organizerEmail: "ocmc@ohio.edu"
 organizerLogo: "/img/seo/organizer-logo.png"
