@@ -50,10 +50,10 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "/#tickets", text: "Register for Free"}
- - {link: "/speakers/#submit", text: "Submit an Abstract"}
+ - {link: "/presenters/#submit", text: "Submit an Abstract"}
 rightNavigationButtons:
   - {link: "/#tickets", text: "Register for Free"}
-  - {link: "/speakers/#submit", text: "Submit an Abstract"}
+  - {link: "/presenters/#submit", text: "Submit an Abstract"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -62,7 +62,7 @@ eventDate: "October 13-15"
 typeoutTextValues: '""'
 typeoutFallback: ""
 heroButtons:
- - {permalink: "/speakers/#submit", text: "Submit an Abstract"}
+ - {permalink: "/presenters/#submit", text: "Submit an Abstract"}
  - {permalink: "/#tickets", text: "Register for Free"}
 
 # About Block
