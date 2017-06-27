@@ -5,8 +5,8 @@
     - {title: "Conference", color: "#90be4e"}
   timeslots:
     - {
-    	startTime:     "10:00",
-    	endTime:       "5:00",
+    	startTime:     "8:00",
+    	endTime:       "8:00",
     	sessionIds:    [01]
     }
 -
@@ -16,8 +16,8 @@
     - {title: "Conference", color: "#90be4e"}
   timeslots:
     - {
-    	startTime:     "10:00",
-    	endTime:       "5:00",
+    	startTime:     "8:00",
+    	endTime:       "8:00",
     	sessionIds:    [01]
     }
 -
@@ -27,7 +27,7 @@
     - {title: "Conference", color: "#90be4e"}
   timeslots:
     - {
-    	startTime:     "10:00",
-    	endTime:       "5:00",
+    	startTime:     "8:00",
+    	endTime:       "12:00",
     	sessionIds:    [01]
     }
