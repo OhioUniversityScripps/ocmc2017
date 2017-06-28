@@ -49,10 +49,10 @@ navigationLinks:
  - {permalink: "/about/", text: "About"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "/#tickets", text: "Register for Free"}
+ - {permalink: "https://ohio.qualtrics.com/jfe/form/SV_40k6PaD1KUoWazP", text: "Register for Free"}
  - {link: "/presenters/#submit", text: "Submit an Abstract"}
 rightNavigationButtons:
-  - {link: "/#tickets", text: "Register for Free"}
+  - {permalink: "https://ohio.qualtrics.com/jfe/form/SV_40k6PaD1KUoWazP", text: "Register for Free"}
   - {link: "/presenters/#submit", text: "Submit an Abstract"}
 
 # Hero Block
@@ -63,7 +63,7 @@ typeoutTextValues: '""'
 typeoutFallback: ""
 heroButtons:
  - {permalink: "/presenters/#submit", text: "Submit an Abstract"}
- - {permalink: "/#tickets", text: "Register for Free"}
+ - {permalink: "https://ohio.qualtrics.com/jfe/form/SV_40k6PaD1KUoWazP", text: "Register for Free"}
 
 # About Block
 aboutTitle: "About OCMC"
