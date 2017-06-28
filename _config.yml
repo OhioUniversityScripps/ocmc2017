@@ -57,7 +57,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Organizational Communication Mini Conference 2017"
+heroTitle: "Organizational Communication Mini Conference<br/>2017"
 eventDate: "October 13-15, 2017"
 typeoutTextValues: '""'
 typeoutFallback: ""
