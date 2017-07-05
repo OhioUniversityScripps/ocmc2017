@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "OCMC 2017"
+title: "Organizational Communication Mini-Conference 2017"
 email: "ocmc2017@ohio.edu"
-description: "GDG DevFest is a set of events all around the world"
+description: "The purpose of the OCMC is to feature and support graduate students pursuing organizational communication research. The conference provides burgeoning scholars in the field with the opportunity to present their dissertations or other research projects, receive feedback, and socialize with their peers and with established faculty."
 baseurl: ""
 url: "http://ocmc.scrippscollege.ohio.edu"
 permalink: "/news/:title"
