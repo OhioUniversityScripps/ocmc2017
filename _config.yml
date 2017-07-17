@@ -45,6 +45,7 @@ navigationLinks:
  - {permalink: "/news/", text: "News"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/presenters/", text: "Presenters"}
+ - {permalink: "/workshops/", text: "Workshops"}
  - {permalink: "/about/", text: "About"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
@@ -67,7 +68,7 @@ heroButtons:
 # About Block
 aboutTitle: "About OCMC"
 aboutBlock:
- - {title: "Workshops", image: "workshop.jpg", text: "This year we will be hosting two, half-day workshops on Friday October 13th. One workshop will focus on Communication and New Technology and the other will focus on Narrative & Storytelling." }
+ - {title: "Workshops", image: "workshop.jpg", text: "This year we will be one, half-day workshop on Friday October 13th. The workshop will focus on Narrative & Storytelling." }
  - {title: "Mini Conference", image: "conference.jpg", text: "The purpose of the Organizational Communication Mini Conference is to feature and support graduate students pursuing organizational communication research." }
 
 # Statistic Block
