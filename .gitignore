@@ -8,6 +8,10 @@ _site/
 ### Sass ###
 .sass-cache
 
+
+### Mac ###
+.DS_Store
+
 ### Windows ###
 # Windows image file caches
 Thumbs.db

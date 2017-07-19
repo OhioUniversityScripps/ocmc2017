@@ -3,7 +3,7 @@ layout: default
 title: Workshop
 permalink: /workshop/
 color: "#2c446e"
-modal: team
+modal: workshop
 ---
 
  {% include top-section.html %}
@@ -35,16 +35,34 @@ modal: team
                </ul>
              </p>
 
-             <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">
-               The workshop will be facilitated by:
+             <div class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">
+               <div class="col-lg-12">
+                <h5>Workshop Facilitators:</h5>
+              </div>
 
-               <ul class="text-left">
-                 <li>Dr. Sarah Tracy, Arizona State University</li>
-                 <li>Dr. Laura Ellingson, Santa Clara University</li>
-                 <li>Dr. Josh Barbour, The University of Texas at Austin</li>
-                 <li>Dr. Lynn Harter, Ohio University</li>
-                 <li>Dr. Brittany Peterson, Ohio University</li>
-               </ul>
+              <div class="row">
+                <div class="col-lg-10 col-lg-offset-1">
+                 {% for facilitator in site.data.workshop_facilitators %}
+                   {% assign loop_iteration = forloop.index0 | modulo:2 %}
+                   {% if loop_iteration == 0 %}
+                     <div class="row">
+                   {% endif %}
+
+                      <div class="col-lg-5">
+                         <p>
+                           <b>{{ facilitator.name }}</b> {{ facilitator.institution }}</br>
+                           <img src="/img/people/{{ facilitator.thumbnailUrl }}" height="200px"/></br>
+                           {{ facilitator.bio }}
+                         </p>
+                      </div>
+
+                  {% if loop_iteration == 1 or forloop.last %}
+                    </div>
+                  {% endif %}
+                 {% endfor %}
+               </div>
+             </div>
+            </div>
          </div>
      </div>
  </section>
