@@ -7,7 +7,7 @@ isStaticPost: false
 
 #### Abstract Submission Process
 
-Advanced graduate students interested in presenting their work should submit their abstract by August 25th, 2017 to [ocmc2017@ohio.edu](mailto:ocmc2017@ohio.edu).
+Advanced graduate students interested in presenting their work should submit their abstract by September 4, 2017 to [ocmc2017@ohio.edu](mailto:ocmc2017@ohio.edu).
 
 Each submission should include a title page and an abstract.
 
@@ -17,7 +17,7 @@ The abstract should be approximately 500 words and formatted as a PDF file no la
 
 Priority will be given to graduate students who are currently on the job market.
 
-Students will be notified by email of acceptance or rejection on September 1st. Accepted abstracts will be invited to be considered for a paper or poster presentation.
+Students will be notified by email of acceptance or rejection on September 11th. Accepted abstracts will be invited to be considered for a paper or poster presentation.
 
 #### Any questions?
 If you have any questions, please contact us at [ocmc2017@ohio.edu](mailto:ocmc2017@ohio.edu)
