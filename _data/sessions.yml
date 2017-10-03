@@ -1,9 +1,8 @@
 -
   id:          100
   title:       "Storytelling & Organizing Workshop"
-  description: "See details at <a href='/workshop/'>workshops</a>"
-  subtype:     workshop
-  speakers:    []
+  service:     true
+  description: "Workshop is already at capacity. See details at <a href='/workshop/'>workshops</a>"
 -
   id:          200
   title:       "Dinner on your own or Meet & Eat"
