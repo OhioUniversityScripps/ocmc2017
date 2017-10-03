@@ -1,67 +1,151 @@
-# -
-#   id: 3
-#   name: "Dawid"
-#   surname: "Ostrowski"
-#   company: "Google Poland"
-#   title: "Developer Relations Program Manager"
-#   bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-#   thumbnailUrl: DawidOstrowski.jpg
-#   rockstar: true
-#   social:
-#     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-# -
-#   id: 4
-#   name: "Dmytro"
-#   surname: "Danylyk"
-#   company: "Lemberg Solutions Limited"
-#   title: "Android Developer"
-#   bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-#   thumbnailUrl: DmytroDanylyk.jpg
-#   rockstar: true
-#   social:
-#     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#     - {name: "github", link: "https://github.com/dmytrodanylyk"}
-# -
-#   id: 5
-#   name: "Mateusz"
-#   surname: "Herych"
-#   company: "Base CRM, GDG Krakow"
-#   title: "Software Engineer"
-#   bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-#   thumbnailUrl: MateuszHerych.jpg
-#   rockstar: true
-#   ribbon:
-#     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-#     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-#   social:
-#     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-#     - {name: "twitter", link: "https://twitter.com/mherych"}
-# -
-#   id: 6
-#   name: "Roman"
-#   surname: "Mazur"
-#   company: "Stanfy, GDG Kyiv"
-#   title: "Head of Android/Java Unit"
-#   bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-#   thumbnailUrl: RomanMazur.jpg
-#   rockstar: true
-#   ribbon:
-#     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-#   social:
-#     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-#     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-# -
-#   id: 7
-#   name: "Valentyn"
-#   surname: "Shybanov"
-#   company: "Twinfield, GDG Kyiv"
-#   title: "Software engineer/country manager"
-#   bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-#   thumbnailUrl: ValentynShybanov.jpg
-#   rockstar: true
-#   ribbon:
-#     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-#   social:
-#     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-#     - {name: "site", link: "http://olostan.name/"}
+-
+  id: 1
+  name: "Jessica "
+  surname: "Pauly"
+  # company: "Ohio University"
+  # title: "Dean of Scripps College of Communication"
+  # bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
+  # social:
+  #   - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+
+-
+  id: 2
+  name: "Miwa"
+  surname: "Ito"
+-
+  id: 3
+  name: "Jack"
+  surname: "Harris"
+-
+  id: 4
+  name: "Dr. Sarah"
+  surname: "Tracy"
+-
+  id: 5
+  name: "Dr. Peter"
+-
+  id: 6
+  name: "Dr. Jessica"
+  surname: "Rick"
+-
+  id: 7
+  name: Dr. Patrice
+  surname: Buzzenell
+-
+  id: 8
+  name: Dron
+  surname: Mandhana
+-
+  id: 9
+  name: Katie
+  surname: Kang
+-
+  id: 10
+  name: Yaguang
+  surname: Zhu
+-
+  id: 11
+  name: Megan
+  surname: Schraedley
+-
+  id: 12
+  name: Sean
+  surname: Eddington
+-
+  id: 13
+  name: Sonia
+  surname: Ivancic
+-
+  id: 14
+  prefix: Dr.
+  name: Dr. Laura
+  surname: Ellingson
+-
+  id: 15
+  prefix: Dr.
+  name: Dr. Kevin
+  surname: Barge
+-
+  id: 16
+  prefix: Dr.
+  name: Dr. Laura
+  surname: Black
+  company: Ohio University
+  title: Associate Professor
+-
+  id: 17
+  prefix: Dr.
+  name: Dr. Josh
+  surname: Barbour
+-
+  id: 18
+  prefix: Dr.
+  name: Dr. Heather
+  surname: Zoller
+-
+  id: 19
+  prefix: Dr.
+  name: Dr. Debbie
+  surname: Dougherty
+-
+  id: 20
+  prefix: Dr.
+  name: Dr. Keri
+  surname: Stephens
+-
+  id: 21
+  name: Dr. Scott
+  surname: D'Urso
+-
+  id: 22
+  prefix: Dr.
+  name: Dr. Angela
+  surname: Gist-Mackey
+-
+  id: 23
+  prefix: Dr.
+  name: Dr. Rebecca
+  surname: Meisenbach
+-
+  id: 24
+  name: Jaclyn
+  surname: Barandhorst
+-
+  id: 25
+  name: Rebekah
+  surname: Crawford
+-
+  id: 26
+  name: Jessica
+  surname: Kamrath
+-
+  id: 27
+  name: Josh
+  surname: Parcha
+-
+  id: 28
+  name: J. Sophia
+  surname: Fu
+-
+  id: 29
+  name: David
+  surname: Torres
+-
+  id: 30
+  name: Dr. Scott
+  surname: Titsworth
+  company: Ohio University
+  title: Dean of Scripps College
+-
+  id: 31
+  name: Dr. Claudia
+  surname: Hale
+  company: Ohio University
+  title: Director of COMS
+-
+  id: 32
+  name: Dr. Brittany
+  surname: Peterson
+  company: Ohio University
+  title: Conference Planner

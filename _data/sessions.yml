@@ -4,52 +4,114 @@
   description: "Times will be posted shortly"
   subtype:     presentation
   speakers:    []
-  language:    en
-  complexity:  "Intermediate"
-# -
-#   id:        307
-#   title:     "Coffee Break"
-#   place:     "Hall"
-#   service:   true
-#   description: "The best time to talk with speakers and attendees"
-# -
-#   id:        503
-#   title:     "Lunch Break"
-#   place:     "Dining room"
-#   service:   true
-# -
-#   id:        002
-#   title:     "Building Cloud-powered wearable Apps"
-#   description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-#   subtype:   presentation
-#   speakers:  [4, 5]
-#   language:  en
-#   complexity: "Intermediate"
-#   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-# -
-#   id:        003
-#   title:     "Android L Animation"
-#   description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-#   subtype:   presentation
-#   speakers:  [4]
-#   language:  en
-#   complexity: "Intermediate"
-#   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-# -
-#   id:        004
-#   title: "Polymer: Interacting with Google Services using nothing but HTML"
-#   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-#   subtype:   keynote
-#   speakers:  [6]
-#   language:  uk
-#   complexity: "Beginner"
-#   presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-# -
-#   id:        005
-#   title: "Test: Interacting with Google Services using nothing but HTML"
-#   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-#   subtype:   keynote
-#   speakers:  [7]
-#   language:  en
-#   complexity: "Expert"
-#   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+-
+  id:        201
+  title: "Breakfast & Registration"
+  place: "Schoonover 450"
+  service:   true
+-
+  id:        202
+  title:     "Coffee Break"
+  place:     "Hall"
+  service:   true
+  description: "The best time to talk with speakers and attendees"
+-
+  id:        203
+  title:     "Lunch"
+  place:     "Schoonover 450"
+  service:   true
+-
+  id:        204
+  title:     "Break"
+  service:   true
+  description: "Travel to Walter Hall Rotunda"
+-
+  id:        205
+  title:     "Dinner"
+  description: "Dinner at Walter Hall Rotunda"
+  service:   true
+-
+  id:        100
+  title:     "Storytelling & Organizing Workshop"
+  subtype:   workshop
+  speakers:  []
+  # description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+-
+  id:        900
+  title:     "Tour of Active Learning Classroom for Presenters"
+  place:     "SCHN 450"
+  description: "Opportunity to look at Schoonover 450, get acquainted with the space, and see the space before you present"
+  subtype:   workshop
+  speakers:  []
+-
+  id:    300
+  title: "Welcome"
+  place: "Schoonover 450"
+  # description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  subtype:   keynote
+  speakers:  [30, 31, 32]
+-
+  id:    301
+  place: "Schoonover 450"
+  title: "Session 1: Organizational Tensions & Crisis"
+  description: |
+    <ul>
+      <li>Authoring Organizational Tensions within the Roman Catholic Church: Women Religious Organize for Themselves</li>
+      <li>Enacted Agression in the Workplace: The Perpetrator's Perspective and the Role of the Relationship</li>
+      <li>Networks of Recovery in Disaster-Impacted Communities</li>
+    </ul>
+  subtype:   panel
+  speakers:  [1, 2, 3]
+-
+  id:    302
+  title: "Special Panel: The Job Search"
+  place: "Schoonover 450"
+  # description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  subtype:   panel
+  speakers:  [4, 5, 6, 7]
+-
+  id:    303
+  title: "Session 2: Supportive Communication in Organizations"
+  place: "Schoonover 450"
+  description: |
+    <ul>
+      <li>Unplanned Conversations at Work</li>
+      <li>(De)Constituting Alcoholics Anonymous: The Four-Flows of Anonymous Communication</li>
+      <li>Participation in Online Health Communities (OHCs) and Perceived Social Support: Elaborating Participation Forms and Incorporating the Role of Identification along with Interpersonal Bonds</
+    </ul>
+  subtype:   session
+  speakers:  [8, 9, 10]
+-
+  id:    304
+  title: "Session 3: Discourses in Organizing: Food Justice, Food Security, and Resistance"
+  place: "Schoonover 450"
+  description: |
+    <ul>
+      <li>The Multiple and Competing Meanings of Food Security at a Government Development Agency</li>
+      <li>Networks of Backlash and Identity: Organizing and Identification within r/TheRedPill</li>
+      <li>Connecting People and Places to Foster Food Justice: A Poststructural Feminist and Aesthetic Account of a Social Benefit Organization</li>
+    </ul>
+  subtype:   session
+  speakers:  [11, 12, 13]
+-
+  id:    305
+  title: "Special Panel: Engaged Scholarship"
+  place: "Schoonover 450"
+  # description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  subtype:   panel
+  speakers:  [14, 15, 16, 17, 18, 19]
+-
+  id:     306
+  title: "Lightning Round: Poster Session Introduction"
+  place: "Schoonover 450"
+  description: ""
+  subtype: poster_presentation
+-
+  id:     307
+  title: "Poster Session & Cocktail Hour"
+  place: "Walter Hall Rotunda"
+-
+  id:     308
+  title: "Wandering Scholars"
+  place: "Walter Hall Rotunda"
+  speakers: [20, 21, 22, 23]
