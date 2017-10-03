@@ -1,82 +1,122 @@
 -
   date:             "2017-10-13"
-  dateReadable:     "October 13"
+  dateReadable:     "Friday October 13"
   tracks:
     - {title: "Conference", color: "#90be4e"}
   timeslots:
     -
-      startTime:     "8:00"
-      endTime:       "8:00"
-      sessionIds:    [01]
+      startTime:    "8:30am"
+      endTime:      "3:00pm"
+      sessionIds:   [100]
+    -
+      startTime:    "4:00pm"
+      endTime:      "5:00pm"
+      sessionIds:   [900]
+    -
+      startTime:    "5:00pm"
+      endTime:      "7:00pm"
+      sessionIds:   [200]
+    -
+      startTime:    "7:30pm"
+      endTime:      "9:00pm"
+      sessionIds:   [901]
+    -
+      startTime:    "7:45pm"
+      endTime:      "8:00pm"
+      sessionIds:   [903]
+    -
+      startTime:    "8:15pm"
+      endTime:      "9:00pm"
+      sessionIds:   [903]
 -
   date:             "2017-10-14"
-  dateReadable:     "October 14"
+  dateReadable:     "Saturday October 14"
   tracks:
     - {title: "Conference", color: "#90be4e"}
   timeslots:
     -
-      startTime:    "8:00"
-      endTime:      "8:30"
+      startTime:    "8:00am"
+      endTime:      "8:30am"
       sessionIds:   [201]
     -
-      startTime:    "8:30"
-      endTime:      "8:45"
+      startTime:    "8:30am"
+      endTime:      "8:45am"
       sessionIds:   [300]
     -
-      startTime:    "8:45"
-      endTime:      "10:05"
+      startTime:    "8:45am"
+      endTime:      "10:05am"
       sessionIds:   [301]
     -
-      startTime:    "10:05"
-      endTime:      "11:05"
+      startTime:    "10:05am"
+      endTime:      "11:05am"
       sessionIds:   [302]
     -
-      startTime:     "11:05"
-      endTime:       "11:15"
+      startTime:     "11:05am"
+      endTime:       "11:15am"
       sessionIds:    [202]
     -
-      startTime:     "11:15"
-      endTime:       "12:35"
+      startTime:     "11:15am"
+      endTime:       "12:35pm"
       sessionIds:    [303]
     -
-      startTime:     "12:35"
-      endTime:       "1:30"
+      startTime:     "12:35pm"
+      endTime:       "1:30pm"
       sessionIds:    [203]
     -
-      startTime:     "1:30"
-      endTime:       "2:50"
+      startTime:     "1:30pm"
+      endTime:       "2:50pm"
       sessionIds:    [304]
     -
-      startTime:     "2:50"
-      endTime:       "3:00"
+      startTime:     "2:50pm"
+      endTime:       "3:00pm"
       sessionIds:    [202]
     -
-      startTime:     "3:00"
-      endTime:       "4:15"
+      startTime:     "3:00pm"
+      endTime:       "4:15pm"
       sessionIds:    [305]
     -
-      startTime:     "4:15"
-      endTime:       "4:30"
+      startTime:     "4:15pm"
+      endTime:       "4:30pm"
       sessionIds:    [306]
     -
-      startTime:     "4:30"
-      endTime:       "5:00"
+      startTime:     "4:30pm"
+      endTime:       "5:00pm"
       sessionIds:    [204]
     -
-      startTime:     "5:00"
-      endTime:       "6:00"
+      startTime:     "5:00pm"
+      endTime:       "6:00pm"
       sessionIds:    [307, 308]
     -
-      startTime:     "6:00"
-      endTime:       "8:00"
+      startTime:     "6:00pm"
+      endTime:       "8:00pm"
       sessionIds:    [205]
 -
   date:             "2017-10-15"
-  dateReadable:     "October 15"
+  dateReadable:     "Sunday October 15"
   tracks:
     - {title: "Conference", color: "#90be4e"}
   timeslots:
     -
-      startTime:     "9:50"
-      endTime:       "10:00"
-      sessionIds:    [202]
+      startTime:    "8:00am"
+      endTime:      "8:30am"
+      sessionIds:   [206]
+    -
+      startTime:    "8:30am"
+      endTime:      "9:50am"
+      sessionIds:   [309]
+    -
+      startTime:    "9:50am"
+      endTime:      "10:00am"
+      sessionIds:   [202]
+    -
+      startTime:     "10:00am"
+      endTime:       "11:20am"
+      sessionIds:    [310]
+    -
+      startTime:     "11:20am"
+      endTime:       "11:30am"
+      sessionIds:    [207]
+    -
+      startTime:     "11:30am"
+      endTime:       "1:00pm"
+      sessionIds:    [208]

@@ -8,144 +8,200 @@
   # social:
   #   - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
   #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-
 -
   id: 2
   name: "Miwa"
   surname: "Ito"
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 3
   name: "Jack"
   surname: "Harris"
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 4
   name: "Dr. Sarah"
   surname: "Tracy"
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 5
   name: "Dr. Peter"
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 6
   name: "Dr. Jessica"
   surname: "Rick"
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 7
   name: Dr. Patrice
   surname: Buzzenell
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 8
   name: Dron
   surname: Mandhana
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 9
   name: Katie
   surname: Kang
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 10
   name: Yaguang
   surname: Zhu
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 11
   name: Megan
   surname: Schraedley
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 12
   name: Sean
   surname: Eddington
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 13
   name: Sonia
   surname: Ivancic
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 14
   prefix: Dr.
   name: Dr. Laura
   surname: Ellingson
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 15
   prefix: Dr.
   name: Dr. Kevin
   surname: Barge
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 16
-  prefix: Dr.
   name: Dr. Laura
   surname: Black
   company: Ohio University
   title: Associate Professor
+  # bio: "bio"
 -
   id: 17
-  prefix: Dr.
   name: Dr. Josh
   surname: Barbour
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 18
-  prefix: Dr.
   name: Dr. Heather
   surname: Zoller
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 19
-  prefix: Dr.
   name: Dr. Debbie
   surname: Dougherty
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 20
-  prefix: Dr.
   name: Dr. Keri
   surname: Stephens
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 21
   name: Dr. Scott
   surname: D'Urso
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 22
-  prefix: Dr.
   name: Dr. Angela
   surname: Gist-Mackey
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 23
-  prefix: Dr.
   name: Dr. Rebecca
   surname: Meisenbach
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 24
   name: Jaclyn
   surname: Barandhorst
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 25
   name: Rebekah
   surname: Crawford
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 26
   name: Jessica
   surname: Kamrath
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 27
   name: Josh
   surname: Parcha
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 28
   name: J. Sophia
   surname: Fu
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
 -
   id: 29
   name: David
   surname: Torres
--
-  id: 30
-  name: Dr. Scott
-  surname: Titsworth
-  company: Ohio University
-  title: Dean of Scripps College
--
-  id: 31
-  name: Dr. Claudia
-  surname: Hale
-  company: Ohio University
-  title: Director of COMS
--
-  id: 32
-  name: Dr. Brittany
-  surname: Peterson
-  company: Ohio University
-  title: Conference Planner
+  # company: "Ohio University"
+  # title: "Graduate Student"
+  # bio: "bio"
