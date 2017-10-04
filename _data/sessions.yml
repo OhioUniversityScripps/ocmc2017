@@ -7,12 +7,12 @@
   id:          200
   title:       "Dinner on your own or Meet & Eat"
   place:       "Schoonover 450"
-  description: "Description TBD"
+  description: "If you would like, meet in the Schoonover Lobby and graduate student ambassadors will greet you. You can join a group based on your food preference."
   service:     true
 -
   id:          201
   title:       "Breakfast & Registration"
-  place:       "Schoonover 450"
+  place:       "Registration in Schoonover Lobby and Breakfast in Schoonover 450"
   service:     true
 -
   id:          202
@@ -37,12 +37,12 @@
   service:     true
 -
   id:          206
-  title:       "Breakfast"
-  description: ""
+  title:       "Breakfast & Announcements"
+  description: "Position Annoucements and Unveiling of next year's OCMC conference location"
   service:     true
 -
   id:          207
-  title:       "Announcements & Closing"
+  title:       "Closing"
   description: ""
   service:     true
 -
@@ -66,8 +66,8 @@
   speakers:    []
 -
   id:          901
-  title:       "Welcome Reception and Cocktail Hour"
-  servie:      true
+  title:       "Welcome Reception & Cocktail Hour"
+  service:      true
   place:       "SCHN 450"
   description: "Kenney Museum of Art"
   subtype:     workshop
@@ -75,8 +75,8 @@
 -
   id:          903
   title:       "Asylum Tour"
-  servie:      true
-  description: "Tour of the famous Athens Asylum; Meet in front of Kenney Museum of Art"
+  service:      true
+  description: "Tour of the famous Athens Asylum; Meet in front of Kenney Museum of Art. No need to register, just join."
 -
   id:          300
   title:       "Welcome"
@@ -108,6 +108,7 @@
   title:       "Session 2: Supportive Communication in Organizations"
   place:       "Schoonover 450"
   description: |
+    Presentation Titles
     <ul>
       <li>Unplanned Conversations at Work</li>
       <li>(De)Constituting Alcoholics Anonymous: The Four-Flows of Anonymous Communication</li>
@@ -117,9 +118,10 @@
   speakers:    [8, 9, 10]
 -
   id:          304
-  title:       "Session 3: Discourses in Organizing: Food Justice, Food Security, and Resistance"
+  title:       "Session 3: Discourses in Organizing: Food Justice, Resistance, and Food Security"
   place:       "Schoonover 450"
   description: |
+    Presentation Titles
     <ul>
       <li>The Multiple and Competing Meanings of Food Security at a Government Development Agency</li>
       <li>Networks of Backlash and Identity: Organizing and Identification within r/TheRedPill</li>
@@ -129,7 +131,7 @@
   speakers:    [11, 12, 13]
 -
   id:          305
-  title: "Special Panel: Engaged Scholarship"
+  title:       "Special Panel: Engaged Scholarship"
   place:       "Schoonover 450"
   # description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
   subtype:     panel
@@ -138,12 +140,13 @@
   id:          306
   title:       "Lightning Round: Poster Session Introduction"
   place:       "Schoonover 450"
-  description: ""
+  description: "Each poster presenter will have one minute to share about their research"
   subtype:     poster_presentation
 -
   id:          307
   title:       "Poster Session & Cocktail Hour"
   place:       "Walter Hall Rotunda"
+  service:     true
 -
   id:          308
   title:       "Wandering Scholars"
@@ -154,6 +157,7 @@
   title:       "Session 4: Well-being in Organizations"
   place:       "Schoonover 450"
   description: |
+    Presentation Titles
     <ul>
       <li>The Communicative Co-Construction of Mental Health in Correctional Work </li>
       <li>Religious Leaders as Symphony Conductors: Providing Mental Healthcare by Orchestrating Organizational Collaboration</li>
@@ -166,6 +170,7 @@
   title:       "Session 5: Design, Innovation, and Corporate Communication"
   place:       "Schoonover 450"
   description: |
+    Presentation Titles
     <ul>
       <li>From Gun Control to Transgender Rights: Corporate Social Advocacy Communication and Its Effects on Attitudes Towards Controversial Social Issues</li>
       <li>Where Does Innovation Come From? Exploring the Dynamic Processes of Organizing and Managing Social Entrepreneurship and Innovation</li>

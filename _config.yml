@@ -251,9 +251,18 @@ directionDetailsWideCards:
     title: "Other Information"
     subCards:
       -
+        title: "Friday Workshop Location"
+        links:
+          - {link: "http://artswest.blogspot.com/", text: "Arts West", details: "132 West State Street, Athens, OH 45701<br/>(740) 592-4315"}
+      -
         title: "Friday Opening Event Location"
         links:
           - {link: "https://www.ohio.edu/museum/", text: "The Kennedy Museum of Art", details: "100 Ridges Cir, Athens, OH 45701<br/>(740) 593-1304"}
+      -
+        title: "Saturday Evening Dinner and Poster Center Location"
+        links:
+          - {link: "https://www.ohio.edu/eventservices/plan-event/venues/walter-rotunda/", text: "Walter Hall Rotunda", details: "25 South Green Drive, Athens, OH 45701"}
+
 
 # Hackathon
 hackathonTitle: "Hackathon"

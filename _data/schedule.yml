@@ -18,7 +18,7 @@
       sessionIds:   [200]
     -
       startTime:    "7:30pm"
-      endTime:      "9:00pm"
+      endTime:      "9:30pm"
       sessionIds:   [901]
     -
       startTime:    "7:45pm"
@@ -26,7 +26,7 @@
       sessionIds:   [903]
     -
       startTime:    "8:15pm"
-      endTime:      "9:00pm"
+      endTime:      "9:30pm"
       sessionIds:   [903]
 -
   date:             "2017-10-14"
