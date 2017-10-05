@@ -33,17 +33,19 @@
 -
   id:          205
   title:       "Dinner"
-  description: "Dinner at Walter Hall Rotunda"
+  place:       "Walter Hall Rotunda"
+  description: ""
   service:     true
 -
   id:          206
   title:       "Breakfast & Announcements"
+  place:       "Schoonover 450"
   description: "Position Annoucements and Unveiling of next year's OCMC conference location"
   service:     true
 -
   id:          207
   title:       "Closing"
-  description: ""
+  place:       "Schoonover 450"
   service:     true
 -
   id:          208
