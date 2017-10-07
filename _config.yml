@@ -246,6 +246,13 @@ directionDetailsWideCards:
         title: "Shuttle Service"
         links:
           - {details: "There will be shuttle service between each of the conference hotels and the conference location on Saturday and Sunday. Attendees can also contact us to make arrangements to be picked up before the Friday evening event if needed."}
+  -
+    title: "Getting around Athens"
+    subCards:
+      -
+        title: "We have an opportunity to share rides around Athens with conference participants."
+        links:
+          - {link: "https://docs.google.com/document/d/1X_CcH9L15kEKvuUI2yBKw8IC_5fQzk1pFrCzu3wl40Y/edit", text: "OCMC RideShare", details: "Have a car? Love the earth? Need a ride? Want to network?"}
 
   -
     title: "Other Information"
