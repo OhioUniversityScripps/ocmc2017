@@ -7,7 +7,7 @@
   id:          200
   title:       "Dinner on your own or Meet & Eat"
   place:       "Schoonover 450"
-  description: "If you would like, meet in the Schoonover Lobby and graduate student ambassadors will greet you. You can join a group based on your food preference."
+  description: "If you would like, meet in the Schoonover Lobby and graduate student ambassadors will greet you. You can join a group based on your food preference. We have prepared a list of restaurants in our <a href='/assets/meet_and_eat.pdf'>Meet and Eat</a> document."
   service:     true
 -
   id:          201
