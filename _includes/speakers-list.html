@@ -26,7 +26,7 @@
                                 {% if site.showSessions %}
                                 <figcaption>
                                     <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
-                                    <p class="position">{{ speaker.company }}</p>
+                                    <p class="position">{{ speaker.institution }}</p>
                                 </figcaption>
                                 {% endif %}
                             </figure>
@@ -45,7 +45,7 @@
                                     {% endfor %}
                                 {% else %}
                                     <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
-                                    <p class="position">{{ speaker.company }}</p>
+                                    <p class="position">{{ speaker.institution }}</p>
                                 {% endif %}
                             </ul>
                             <a href="#" class="slider-next-item {% if sessionsNumber < 2 %}hidden{% endif %}">Next</a>

@@ -78,9 +78,9 @@
             "validFrom" : "{{ ticketsOffer.validFrom }}",
             "validThrough" : "{{ ticketsOffer.validThrough }}"
         }{% if forloop.index != forloop.length %},{% endif %}
-        {% endfor %} 
+        {% endfor %}
         ],
-        "performer" : [ 
+        "performer" : [
         {% for speaker in site.data.speakers %}
         {
             "@type" : "Person",
@@ -89,11 +89,11 @@
             "jobTitle" : "{{ speaker.title }}",
             "worksFor" : {
                 "@type" : "Organization",
-                "name" : "{{ speaker.company }}"
+                "name" : "{{ speaker.institution }}"
             },
             "sameAs" : "{{ speaker.social[0].link }}"
         }{% if forloop.index != forloop.length %},{% endif %}
-        {% endfor %}  
+        {% endfor %}
         ],
         "eventStatus" : "EventScheduled",
         "typicalAgeRange" : "16+"

@@ -3,191 +3,255 @@
     id: 1
     name: Jessica
     surname: Pauly
-    company:
-    title:
+    institution: Purdue University
+    title: PhD Student
+    email: jpauly@purdue.edu
+    presentation_title: "Authoring Organizational Tensions within the Roman Catholic Church: Women Religious Organize for Themselves"
 -
     id: 2
     name: Miwa
     surname: Ito
-    company:
-    title:
+    institution: Wayne State University
+    title: PhD Student
+    email: miwa.ito@wayne.edu
+    presentation_title: 'Enacted Agression in the Workplace: The Perpetrator''s Perspective and the Role of the Relationship'
 -
     id: 3
     name: Jack
     surname: Harris
-    company:
-    title:
+    institution: Rutgers University
+    title: PhD Student
+    email: jackharris999@gmail.com
+    presentation_title: Networks of Recovery in Disaster-Impacted Communities
 -
     id: 4
     name: Dr. Sarah J.
     surname: Tracy
-    company:
-    title:
+    institution: Arizona State University
+    title: Professor
+    email: sarah.tracy@asu.edu
+    presentation_title:
 -
     id: 5
     name: Dr. Peter
     surname: Jensen
-    company:
-    title:
+    institution: University of Alabama
+    title: Assistant Professor
+    email: peter.jensen@ua.edu
+    presentation_title:
 -
     id: 6
     name: Dr. Jessica
     surname: Rick
-    company:
-    title:
+    institution: University of Southern Indiana
+    title: Assistant Professor
+    email: jrick@usi.edu
+    presentation_title:
 -
     id: 7
     name: Dr. Patrice M.
-    surname: Buzzanell
-    company:
-    title:
+    surname: Buzzenell
+    institution: University of South Florida
+    title: Department Chair
+    email: pmbuzzanell@usf.edu
+    presentation_title:
 -
     id: 8
     name: Dron
     surname: Mandhana
-    company:
-    title:
+    institution: University of Texas at Austin
+    title: PhD Student
+    email: mandhana.dron@utexas.edu
+    presentation_title: Unplanned Conversations at Work
 -
     id: 9
     name: Katie
     surname: Kang
-    company:
-    title:
+    institution: Rutgers University
+    title: PhD Student
+    email: kkangwoni@gmail.com
+    presentation_title: "(De)Constituting Alcoholics Anonymous: The Four-Flows of Anonymous Communication"
 -
     id: 10
     name: Yaguang
     surname: Zhu
-    company:
-    title:
+    institution: University of Texas at Austin
+    title: PhD Student
+    email: yaguang.zhu@utexas.edu
+    presentation_title: "Participation in Online Health Communities (OHCs) and Perceived Social Support: Elaborating Participation Forms and Incorporating the Role of Identification along with Interpersonal Bonds"
 -
     id: 11
     name: Megan
     surname: Schraedley
-    company:
-    title:
+    institution: University of Missouri
+    title: PhD Student
+    email: makmh4@mail.missouri.edu
+    presentation_title: The Multiple and Competing Meanings of Food Security at a Government Development Agency
 -
     id: 12
     name: Sean
     surname: Eddington
-    company:
-    title:
+    institution: Purdue University
+    title: PhD Student
+    email: seddingt@purdue.edu
+    presentation_title: "Networks of Backlash and Identity: Organizing and Identification within r/TheRedPill"
 -
     id: 13
     name: Sonia
     surname: Ivancic
-    company:
-    title:
+    institution: Ohio University
+    title: PhD Student
+    email: si187113@ohio.edu
+    presentation_title: "Connecting People and Places to Foster Food Justice: A Poststructural Feminist and Aesthetic Account of a Social Benefit Organization"
 -
     id: 14
-    name: Dr. Laura
+    name: Dr. Laura L.
     surname: Ellingson
-    company:
-    title:
+    institution: Santa Clara University
+    title: "Professor/Director of Women's and Gender Studies"
+    email:
+    presentation_title:
 -
     id: 15
     name: Dr. Kevin
     surname: Barge
-    company:
-    title:
+    institution: Professor
+    title: Texas A&M
+    email: kbarge@tamu.edu
+    presentation_title:
 -
     id: 16
     name: Dr. Laura
     surname: Black
-    company: Ohio University
+    institution: Ohio University
     title: Associate Professor
+    email: laura.black.1@ohio.edu
+    presentation_title:
 -
     id: 17
     name: Dr. Josh
     surname: Barbour
-    company:
-    title:
+    institution: University of Texas at Austin
+    title: Assistant Professor
+    email: barbourjosh@utexas.edu
+    presentation_title:
 -
     id: 18
     name: Dr. Heather
     surname: Zoller
-    company:
-    title:
+    institution: University of Cincinnati
+    title: Professor
+    email: heather.zoller@uc.edu
+    presentation_title:
 -
     id: 19
     name: Dr. Debbie
     surname: Dougherty
-    company:
-    title:
+    institution: University of Missouri
+    title: Professor
+    email: doughertyd@missouri.edu
+    presentation_title:
 -
     id: 20
     name: Dr. Keri
     surname: Stephens
-    company:
-    title:
+    institution: University of Texas at Austin
+    title: Associate Professor
+    email: keristephens@austin.utexas.edu
+    presentation_title:
 -
     id: 21
     name: Dr. Scott
     surname: 'D''Urso'
-    company:
-    title:
+    institution: Marquette University
+    title: Department Chair
+    email: scott.durso@marquette.edu
+    presentation_title:
 -
     id: 22
     name: Dr. Angela
     surname: Gist-Mackey
-    company:
-    title:
+    institution: University of Kansas
+    title: Assistant Professor
+    email: angela.gist@ku.edu
+    presentation_title:
 -
     id: 23
     name: Dr. Rebecca
     surname: Meisenbach
-    company:
-    title:
+    institution: University of Missouri
+    title: Associate Professor
+    email: meisenbachr@missouri.edu
+    presentation_title:
 -
     id: 24
     name: Jaclyn
     surname: Brandhorst
-    company:
-    title:
+    institution: University of Missouri
+    title: PhD Student
+    email: jkbmw7@mail.missouri.edu
+    presentation_title: The Communicative Co-Construction of Mental Health in Correctional Work
 -
     id: 25
     name: Rebekah
     surname: Crawford
-    company: Ohio University
-    title:
+    institution: Ohio University
+    title: PhD Student
+    email: crawforr@ohio.edu
+    presentation_title: "Religious Leaders as Symphony Conductors: Providing Mental Healthcare by Orchestrating Organizational Collaboration"
 -
     id: 26
     name: Jessica
     surname: Kamrath
-    company:
-    title:
+    institution: Arizona State University
+    title: PhD Student
+    email: jkamrath@asu.edu
+    presentation_title: Narratives of Successes and Strengths as a Method Toward Employee Resilience & Well-Being
 -
     id: 27
     name: Josh
     surname: Parcha
-    company:
-    title:
+    institution: North Dakota State University
+    title: PhD Student
+    email: joshua.parcha@ndsu.edu
+    presentation_title: "From Gun Control to Transgender Rights: Corporate Social Advocacy Communication and Its Effects on Attitudes Towards Controversial Social Issues"
 -
     id: 28
     name: J. Sophia
     surname: Fu
-    company:
-    title:
+    institution: Northwestern University
+    title: PhD Student
+    email: sophiafu@u.northwestern.edu
+    presentation_title: Where Does Innovation Come From? Exploring the Dynamic Processes of Organizing and Managing Social Entrepreneurship and Innovation
 -
     id: 29
     name: David
     surname: Torres
-    company:
-    title:
+    institution: Purdue University
+    title: PhD Student
+    email: torres47@purdue.edu
+    presentation_title: "(Re)constructing the professional formation of engineers: A human-centered model of communication design"
 -
     id: 30
     name: Dr. Scott
     surname: Titsworth
-    company: Ohio University
+    institution: Ohio University
     title: Dean of Scripps College
+    email: titswort@ohio.edu
+    presentation_title:
 -
     id: 31
     name: Dr. Claudia
     surname: Hale
-    company: Ohio University
+    institution: Ohio University
     title: Director of COMS
+    email: hale@ohio.edu
+    presentation_title:
 -
     id: 32
     name: Dr. Brittany
     surname: Peterson
-    company: Ohio University
+    institution: Ohio University
     title: Conference Planner
+    email: petersob@ohio.edu
+    presentation_title:
