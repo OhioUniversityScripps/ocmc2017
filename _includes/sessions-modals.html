@@ -48,7 +48,10 @@
 					                        </div>
 					                        {% endif %}
 											<p class="about">{{ speaker.bio }}</p>
-											<p class="session">{{ speaker.presentation_title }}</p>
+											{% if speaker.presentation_title != null %}
+												<p class="session">{{ speaker.presentation_title }}</p>
+											{% endif %}
+
 											<ul class="social">
 												{% for social in speaker.social %}
 													<li>
