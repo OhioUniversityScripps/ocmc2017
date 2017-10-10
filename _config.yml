@@ -237,7 +237,7 @@ directionDetailsWideCards:
       -
         title: "Ohio University Inn and Conference Center"
         links:
-          - {link: "http://www.ouinn.com/", text: "View Website", details: "0.9 miles from Schoonover Center<br/>35 rooms (release Sept 13th)<br/>10 king 25 double<br/>$119.90<br/>(866) 593-6661<br/>Group name: Organizational Communication Mini Conference (OCMC)<br/><a href='/assets/TheOhioUniversityInn.pdf'>Map and Details</a>"}
+          - {link: "http://www.ouinn.com/", text: "View Website", details: "0.9 miles from Schoonover Center<br/>35 rooms (release Sept 13th)<br/>10 king 25 double<br/>$119.90<br/>(866) 593-6661<br/>Group name: Organizational Communication Mini Conference (OCMC)<br/><a href='/assets/TheOhioUniversityInn.pdf'>Building Photo and Details</a>"}
       -
         title: "Holiday In Express"
         links:
@@ -264,21 +264,21 @@ directionDetailsWideCards:
       -
         title: "Friday Opening Event Location"
         links:
-          - {link: "https://www.ohio.edu/museum/", text: "The Kennedy Museum of Art", details: "100 Ridges Cir, Athens, OH 45701<br/>(740) 593-1304<br/><a href='/assets/LinHallKennedy Museum.pdf'>Map and Details</a>"}
+          - {link: "https://www.ohio.edu/museum/", text: "The Kennedy Museum of Art", details: "100 Ridges Cir, Athens, OH 45701<br/>(740) 593-1304<br/><a href='/assets/LinHallKennedy Museum.pdf'>Building Photo and Details</a>"}
       -
         title: "Friday and Saturday Presentation Location"
         links:
-          - {link: "https://www.ohio.edu/scrippscollege/about/schoonover-center.cfm", text: "Schoonover Center for Communication", details: "20 E Union St, Athens, OH 45701<br/><a href='/assets/SchoonoverCenterofCommunication.pdf'>Map and Details</a>"}
+          - {link: "https://www.ohio.edu/scrippscollege/about/schoonover-center.cfm", text: "Schoonover Center for Communication", details: "20 E Union St, Athens, OH 45701<br/><a href='/assets/SchoonoverCenterofCommunication.pdf'>Building Photo and Details</a>"}
       -
         title: "Saturday Evening Dinner and Poster Center Location"
         links:
-          - {link: "https://www.ohio.edu/eventservices/plan-event/venues/walter-rotunda/", text: "Walter Hall Rotunda", details: "25 South Green Drive, Athens, OH 45701<br/><a href='/assets/MargaretWalterHallOhioUniversity.pdf'>Map and Details</a>"}
+          - {link: "https://www.ohio.edu/eventservices/plan-event/venues/walter-rotunda/", text: "Walter Hall Rotunda", details: "25 South Green Drive, Athens, OH 45701<br/><a href='/assets/MargaretWalterHallOhioUniversity.pdf'>Building Photo and Details</a>"}
       -
         title: "Parking Information"
         links:
           - {link: '/assets/OCMC_Parking_Information.pdf', text: "General Athens Parking Information", details: "Details about all locations to park throughout the conference"}
           - {link: '/assets/OCMC_ParkingMap.pdf', text: "Ohio University Parking Map", details: "Map of all campus parking locations"}
-          - {link: "https://www.ohio.edu/athens/bldgs/cgarage.html", text: "Athens City Parking Garage", details: "7 E Washington St, Athens, OH 45701<br/><a href='/assets/AthensCityParkingGarage.pdf'>Map and Details</a>"}
+          - {link: "https://www.ohio.edu/athens/bldgs/cgarage.html", text: "Athens City Parking Garage", details: "7 E Washington St, Athens, OH 45701<br/><a href='/assets/AthensCityParkingGarage.pdf'>Building Photo and Details</a>"}
 
 
 # Hackathon
