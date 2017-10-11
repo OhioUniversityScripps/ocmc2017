@@ -40,6 +40,9 @@
 											<p class="name">{{ speaker.name }} {{ speaker.surname }}
 												<span class="position">{{ speaker.title }}, {{ speaker.institution }}</span>
 											</p>
+											<p class="email">
+												Email: <a href="mailto:{{ speaker.email }}">{{ speaker.email }}</a>
+											</span>
 											{% if speaker.ribbon != null %}
 											<div class="modal-ribbon-wrapper">
 					                            {% for ribbon in speaker.ribbon %}

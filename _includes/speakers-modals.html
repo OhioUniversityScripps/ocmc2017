@@ -46,6 +46,11 @@
 									<p class="name">{{ speaker.name }} {{ speaker.surname }}
 										<span class="position">{{ speaker.title }}, {{ speaker.institution }}</span>
 									</p>
+									{% if speaker.email != null %}
+										<p class="email">
+											Email: <a href="mailto:{{ speaker.email }}">{{ speaker.email }}</a>
+										</p>
+									{% endif %}
 									{% if speaker.presentation_title != null %}
 										<p class="session">
 											Presentation Title: {{ speaker.presentation_title }}
