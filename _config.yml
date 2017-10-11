@@ -245,7 +245,7 @@ directionDetailsWideCards:
       -
         title: "Shuttle Service"
         links:
-          - {details: "There will be shuttle service between each of the conference hotels and the conference location on Saturday and Sunday. Attendees can also contact us to make arrangements to be picked up before the Friday evening event if needed."}
+          - {details: "There will be shuttle service between each of the conference hotels and the conference location on Saturday and Sunday. Attendees can also contact us to make arrangements to be picked up before the Friday evening event if needed.<br/><br/>There will be a sign up sheet at each of the conference hotels for the shuttle on Saturday at Sunday. Please be sure to sign up for the shuttle when you check in."}
   -
     title: "Getting around Athens"
     subCards:
